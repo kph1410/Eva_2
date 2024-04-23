@@ -12,6 +12,8 @@ nav a:hover{
 }
 .login{
     border: 2px solid #000000;
+    margin-left: 25%;
+    margin-right: 25%;
 }
 #footer h5{
     width: 100%;
